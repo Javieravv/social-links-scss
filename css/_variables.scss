@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+$mobileWidth: 550px;
+$colorGreen: hsl(75, 94%, 57%);
+$colorWhite: hsl(0, 0%, 100%);
+$colorGrey: hsl(0, 0%, 20%);
+$colorDarkGrey: hsl(0, 0%, 12%);
+$colorOffBlack: hsl(0, 0%, 8%);
+$fontSizeParag: 14px;
+$fontFamily: 'Inter', sans-serif;
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: $fontFamily;
+}
